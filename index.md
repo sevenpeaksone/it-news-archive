@@ -9,6 +9,8 @@ title: IT/AI Archive
 
 ## Latest sample
 
+- [2026-05-26 IT 오늘의 핵심 보고서](articles/2026/05/2026-05-26-ai-devtools-security-operations.html)
+
 - [AI 인프라 경쟁, 클라우드 시장의 운영 기준을 바꾸다](articles/2026/05/2026-05-25-ai-infrastructure-cloud-operations.html)
 
 ## Content policy

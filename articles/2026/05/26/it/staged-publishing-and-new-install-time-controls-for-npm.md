@@ -5,7 +5,6 @@ date: 2026-05-26
 topic: "IT"
 type: "article"
 status: "published"
-source_grade: "A"
 source_name: "GitHub Blog Changelog"
 ---
 

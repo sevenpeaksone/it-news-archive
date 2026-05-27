@@ -11,23 +11,13 @@ source_name: "Cloudflare Blog"
 
 # Announcing Claude Compliance API support with Cloudflare CASB
 
-## 요약
-Cloudflare now integrates with the Claude Compliance API, so that security teams can monitor Claude Enterprise activity directly in the Cloudflare Dashboard.
+## 핵심 내용
+Cloudflare가 Claude Compliance API를 CASB와 연동해 Claude Enterprise 활동을 보안 대시보드에서 모니터링할 수 있게 했습니다. 기업 환경에서는 AI 도구 사용 내역, 접근 통제, 감사 요구사항을 한곳에서 관리하는 방향으로 이어질 수 있습니다.
 
-## 왜 중요한가
-이 항목은 개발도구, 클라우드, 보안 운영의 실제 통제 지점과 연결됩니다. 기능 출시 자체보다 조직이 권한·배포·감사 정책을 어떻게 조정해야 하는지가 핵심입니다.
-
-## 확인된 정보
+## 출처 정보
 - 출처: Cloudflare Blog
 - 출처 유형: 검증된 보조 출처
-- 출처 등급: B
-- 품질 점수: 0.85
 - 발행·수집 시각: Thu, 21 May 2026 17:00:00 GMT
-
-## 읽을 때 유의할 점
-- Google News 같은 집계 링크는 공개 근거로 사용하지 않고, 원 출처 또는 공식 출처만 링크합니다.
-- 공식 발표라 하더라도 해석은 후속 문서와 실제 적용 사례에 따라 달라질 수 있습니다.
-- 주요인사 항목은 공식 SNS/공식 일정/기관 발표를 우선 확인하고, 2차 보도는 맥락 보강으로만 사용합니다.
 
 ## 원문 출처
 - [Cloudflare Blog](https://blog.cloudflare.com/casb-anthropic-integration/)

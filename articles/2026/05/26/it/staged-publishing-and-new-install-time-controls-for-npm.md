@@ -11,7 +11,7 @@ source_name: "GitHub Blog Changelog"
 # Staged publishing and new install-time controls for npm
 
 ## 핵심 내용
-GitHub가 npm 패키지 배포 과정의 공급망 보안을 강화하기 위해 단계적 게시 기능을 정식 제공하고, 설치 시 허용할 소스 범위를 제한하는 새 --allow-* 옵션을 추가했습니다. npm 패키지를 배포하거나 설치 정책을 관리하는 조직은 배포 승인 흐름과 CI 설치 정책을 함께 점검해야 합니다.
+GitHub가 npm 패키지 배포 과정의 공급망 보안을 강화하기 위해 단계적 게시 기능을 정식 제공하고, 설치 시 허용할 소스 범위를 제한하는 새 --allow-* 옵션을 추가했습니다. 주요 변화는 패키지 배포 승인 흐름과 CI 설치 정책에 직접 연결됩니다.
 
 ## 출처 정보
 - 출처: GitHub Blog Changelog

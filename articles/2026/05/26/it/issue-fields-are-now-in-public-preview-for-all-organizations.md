@@ -11,7 +11,13 @@ source_name: "GitHub Blog Changelog"
 # Issue fields are now in public preview for all organizations
 
 ## 핵심 내용
-GitHub 조직에서 이슈에 Priority, Effort 같은 구조화된 필드를 붙이는 기능이 공개 프리뷰로 열렸습니다. 단순 라벨보다 일관된 업무 분류와 우선순위 관리를 하려는 팀에 유용한 변화입니다.
+GitHub Blog Changelog에서 확인된 항목입니다.
+
+원문 제목: Issue fields are now in public preview for all organizations
+
+원문 요약 발췌: Issue fields are now available in public preview to all GitHub organizations on github.com and GitHub Enterprise Cloud with data residency. When you define typed metadata like Priority, Effort, or…
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 ## 출처 정보
 - 출처: GitHub Blog Changelog

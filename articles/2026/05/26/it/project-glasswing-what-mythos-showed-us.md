@@ -11,7 +11,13 @@ source_name: "Cloudflare Blog"
 # Project Glasswing: what Mythos showed us
 
 ## 핵심 내용
-Cloudflare가 보안 특화 LLM을 실제 인프라 코드에 적용하며 관찰한 장단점을 공개했습니다. 보안 자동화가 실무에 쓰이려면 모델 성능뿐 아니라 검증 절차, 실패 처리, 운영 책임 구조가 함께 필요하다는 점을 보여줍니다.
+Cloudflare Blog에서 확인된 항목입니다.
+
+원문 제목: Project Glasswing: what Mythos showed us
+
+원문 요약 발췌: In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look like before any of it can scale.
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 ## 출처 정보
 - 출처: Cloudflare Blog

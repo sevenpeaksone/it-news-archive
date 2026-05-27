@@ -11,7 +11,13 @@ source_name: "GitHub Blog Changelog"
 # GitHub Copilot for Eclipse is open source
 
 ## 핵심 내용
-GitHub가 Eclipse용 GitHub Copilot 확장 코드를 MIT 라이선스로 공개했습니다. Eclipse 기반 개발 환경을 쓰는 팀은 확장 동작을 직접 검토하거나 내부 정책에 맞춰 수정할 수 있는 여지가 커졌습니다.
+GitHub Blog Changelog에서 확인된 항목입니다.
+
+원문 제목: GitHub Copilot for Eclipse is open source
+
+원문 요약 발췌: Following our previous updates, GitHub Copilot for Eclipse is open source, with the code available on GitHub under the MIT license. This marks an important milestone for GitHub Copilot in…
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 ## 출처 정보
 - 출처: GitHub Blog Changelog
